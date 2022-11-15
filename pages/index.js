@@ -67,7 +67,7 @@ export default function Home() {
                 <Link href={'location/paris-2968815'}>
                   <div className='places_image-wrapper'>
                     <Image
-                      src={`/Paris.jpg`}
+                      src={`/paris.jpg`}
                       alt="paris"
                       height='380'
                       width='280'
